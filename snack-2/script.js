@@ -33,8 +33,7 @@ console.log(secondBurger.ingredients[0]); // "Salad"
 
 /* 
 - Senza lanciare il codice, riesci a prevedere cosa viene stampato in console?
-    Il valore che avrà l'indice 0 dell'array sia in hamburger che in secondBurger sarà "Salad"
-    
+    Il valore che avrà l'indice 0 dell'array sia in hamburger che in secondBurger sarà "Salad"    
 
 - Quanti oggetti sono stati creati in memoria durante l'esecuzione di questo codice?
     Sono stati creati due oggetti il primo hamburger e il secondo secondBurger
