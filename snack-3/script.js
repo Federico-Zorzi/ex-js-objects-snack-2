@@ -47,5 +47,5 @@ console.log("thirdBurger", thirdBurger);
 
 /* 
 - Quanti oggetti sono stati creati in memoria durante l'esecuzione di questo codice?
-    Sono stati creati 3 oggetti diversi
+    Sono stati creati 9 oggetti diversi
 */

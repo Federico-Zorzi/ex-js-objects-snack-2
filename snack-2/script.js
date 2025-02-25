@@ -36,6 +36,6 @@ console.log(secondBurger.ingredients[0]); // "Salad"
     Il valore che avrà l'indice 0 dell'array sia in hamburger che in secondBurger sarà "Salad"    
 
 - Quanti oggetti sono stati creati in memoria durante l'esecuzione di questo codice?
-    Sono stati creati due oggetti il primo hamburger e il secondo secondBurger
+    Sono stati creati 3 oggetti: il primo hamburger, il secondo secondBurger e il terzo è ingredients
   
 */

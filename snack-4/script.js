@@ -30,6 +30,10 @@ const chef = {
   },
 };
 
+const chefCopia = { ...chef };
+console.log("chef", chef);
+console.log("chefCopia", chefCopia);
+
 const restaurant = {
   name: "Hyur's Burgers",
   address: {
@@ -39,6 +43,10 @@ const restaurant = {
   openingDate: new Date(2025, 3, 11),
   isOpen: false,
 };
+
+const restaurantCopia = structuredClone(restaurant);
+console.log("restaurant", restaurant);
+console.log("restaurantCopia", restaurantCopia);
 
 /* 
 - Qual è il metodo migliore per clonare l’oggetto chef, e perché?

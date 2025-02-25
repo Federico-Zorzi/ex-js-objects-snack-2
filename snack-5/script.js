@@ -67,6 +67,6 @@ console.log(secondBurger.maker.restaurant.name); // "Hyur's II"
 - Senza lanciare il codice, riesci a prevedere cosa viene stampato in console?
 
 - Quanti oggetti sono stati creati in memoria durante l'esecuzione di questo codice?
-    Sono stati creati 3 oggetti in memoria
+    Sono stati creati 5 oggetti in memoria
 
 */
